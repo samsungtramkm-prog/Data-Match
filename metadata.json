@@ -1,0 +1,8 @@
+{
+  "name": "DataMatch Pro",
+  "description": "Hệ thống web-based chuyên dụng đối chiếu, làm sạch dữ liệu và tự động sửa sinh viên/nhân viên lệch, xuất báo cáo chất lượng đào tạo và tuyển dụng hàng ngày.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
